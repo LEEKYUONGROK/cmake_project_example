@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(int argc,const char** argv){
-    std::cout <<"Hello Word"<< std::endl;
+    std::cout <<"Hello Worddd"<< std::endl;
     return 0; 
-}
+} 
